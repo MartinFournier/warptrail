@@ -1,4 +1,4 @@
-#syscrawl
+#warptrail
 
 1. Install bower
 ```sh
